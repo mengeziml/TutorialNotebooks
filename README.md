@@ -1,2 +1,2 @@
-# TutorialNotebooks
-A collection of notebook from the tutorials I've been watching
+# Tutorial Notebooks
+A collection of notebooks from the tutorials I've been watching in preparation for the retail project
